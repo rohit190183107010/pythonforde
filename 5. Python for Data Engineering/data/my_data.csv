@@ -1,0 +1,6 @@
+EventName,EventType,Dedup,EMQ
+PageView,Standard,100%,5
+ViewContent,Standard,100%,6
+AddToCart,Standard,100%,7
+Lead,Standard,100%,8
+Purchase,Standard,100%,9
